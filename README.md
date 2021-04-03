@@ -1,7 +1,7 @@
 # ***Hi there, I'm Aditya👋***
 
 [![Linkedin](https://img.shields.io/website?label=Connect-linkedin&style=for-the-badge&url=https%3A%2F%linkedin.com)][linkedin]
-[![Twitter Follow](https://img.shields.io/twitter/follow/shirsath_adi?color=1DA1F2&logo=twitter&style=for-the-badge)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/shirsath_adi?color=1DA1F2&logo=twitter&style=for-the-badge)](twitterr-follow)
 
 ## ***I'm a Student, Developer, Engineer*** !!
 ## ***Main skills Deep learning, Machine Learning*** !!
@@ -58,9 +58,10 @@
   <img align="left" alt="AdiShirsath's GitHub Stats" src="https://github-readme-stat-two.vercel.app/api?username=AdiShirsath&show_icons=true&hide_border=true" />
   
   <!-- Links -->
-  [linkedin]: https://twitter.com/shirsath_adi
+  [linkedin]: https://www.linkedin.com/in/adishirsath55/
   [github]: https://github.com/AdiShirsath
-  [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shirsath_adi
+  [twitter-follow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shirsath_adi
+  [twitter]:https://twitter.com/shirsath_adi
   [instagram]: https://www.instagram.com/adya_shirsath/
   [tensorflow]: https://www.tensorflow.org/
   [sklearn]: https://scikit-learn.org/stable/index.html
