@@ -1,10 +1,10 @@
-# ***Hi there, I'm Aditya👋***
+## ***Hi there, I'm Aditya👋***
 
-[![Linkedin](https://img.shields.io/website?label=Connect-linkedin&style=for-the-badge&url=https%3A%2F%linkedin.com)][linkedin]
+[![Linkedin](https://img.shields.io/website?label=linkedin&style=for-the-badge&url=https%3A%2F%linkedin.com)][linkedin]
 [![Twitter Follow](https://img.shields.io/twitter/follow/shirsath_adi?color=1DA1F2&logo=twitter&style=for-the-badge)](twitterr-follow)
 
-## ***I'm a Student, Developer, Engineer*** !!
-## ***Main skills Deep learning, Machine Learning*** !!
+### ***I'm a Student, Developer, Engineer*** !!
+### ***Key skills Deep learning, Machine Learning*** !!
 
 -  <img src="https://user-images.githubusercontent.com/75840165/113469768-f18fa080-946d-11eb-970d-036eb614f2d6.png" width=30 height=30> Goal 2021: Become Machine/ Deep Learning Engineer, Data scientist.
 - 🔭 I just completed web-app using Flask-html-scss on Deep Learning, here is demo-
@@ -23,14 +23,14 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Tensorflow" width="30px" src="https://user-images.githubusercontent.com/75840165/113471283-0aea1a00-9479-11eb-82e3-b9264ffe9aab.png" />][tensorflow]
+[<img align="left"  alt="Tensorflow" width="30px" src="https://user-images.githubusercontent.com/75840165/113471283-0aea1a00-9479-11eb-82e3-b9264ffe9aab.png"/>][tensorflow]
 [<img align="left" alt="Scikit-learn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471281-09205680-9479-11eb-9947-e712f7dd33f7.png" />][sklearn]
 [<img align="left" alt="Pandas" width="30px" src="https://user-images.githubusercontent.com/75840165/113471285-0c1b4700-9479-11eb-9060-01f171b3b562.png" />][pandas]
 [<img align="left" alt="Matplotlib" width="30px" src="https://user-images.githubusercontent.com/75840165/113471284-0b82b080-9479-11eb-98a0-bed08a493efb.png" />](https://matplotlib.org/)
 [<img align="left" alt="Seaborn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471386-8ba91600-9479-11eb-858b-432a30e66c4c.png" />](https://seaborn.pydata.org/)
 [<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/75840165/113471914-3f5fd500-947d-11eb-846d-c9a1030de47d.png" />](https://www.python.org/)
 [<img align="left" alt="Flask" width="30px" src="https://user-images.githubusercontent.com/75840165/113471874-f019a480-947c-11eb-9757-01e239bf340a.png" />](https://flask.palletsprojects.com/en/1.1.x/)
-[<img align="left" alt="Stramlit" width="30px" src="https://user-images.githubusercontent.com/75840165/113471875-f14ad180-947c-11eb-9546-02deeb48e3e9.png" />](https://streamlit.io/)
+[<img align="left" alt="Stramlit" width="30px" src="https://user-images.githubusercontent.com/75840165/113471875-f14ad180-947c-11eb-9546-02deeb48e3e9.png" />](https://streamlit.io/?target="_blank")
 
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/default.asp)
