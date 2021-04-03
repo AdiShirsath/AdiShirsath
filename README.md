@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Hobbies: I love to watch Movies and Cricket.
-
+-----
 ### Connect with me:
 
 [<img align="left" alt="shirsath_adi | Twitter" width="22px" src="https://user-images.githubusercontent.com/75840165/113473034-9e751800-9484-11eb-92af-5b0f8b348b88.png" />][twitter]
