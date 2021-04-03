@@ -1,7 +1,7 @@
 ## ***Hi there, I'm Aditya👋***
 
 [![Linkedin](https://img.shields.io/website?label=linkedin&style=for-the-badge&url=https%3A%2F%linkedin.com)][linkedin]
-[![Twitter Follow](https://img.shields.io/twitter/follow/shirsath_adi?color=1DA1F2&logo=twitter&style=for-the-badge)](twitterr-follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shirsath_adi?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter-follow]
 
 ### ***I'm a Student, Developer, Engineer*** !!
 ### ***Key skills Deep learning, Machine Learning*** !!
