@@ -1,7 +1,7 @@
 # ***Hi there, I'm Aditya👋***
 
-[![Linkedin](https://img.shields.io/website?label=Connect-linkedin&style=for-the-badge&url=https%3A%2F%linkedin.com)](https://www.linkedin.com/in/adishirsath55/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shirsath_adi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shirsath_adi)
+[![Linkedin](https://img.shields.io/website?label=Connect-linkedin&style=for-the-badge&url=https%3A%2F%linkedin.com)][linkedin]
+[![Twitter Follow](https://img.shields.io/twitter/follow/shirsath_adi?color=1DA1F2&logo=twitter&style=for-the-badge)]()
 
 ## ***I'm a Student, Developer, Engineer*** !!
 ## ***Main skills Deep learning, Machine Learning*** !!
@@ -16,16 +16,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shirsath_adi | Twitter" width="22px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/Icons_%26_logos/twitter.svg" />](https://twitter.com/shirsath_adi)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adishirsath55/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/adya_shirsath/)
+[<img align="left" alt="shirsath_adi | Twitter" width="22px" src="https://user-images.githubusercontent.com/75840165/113473034-9e751800-9484-11eb-92af-5b0f8b348b88.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Tensorflow" width="30px" src="https://user-images.githubusercontent.com/75840165/113471283-0aea1a00-9479-11eb-82e3-b9264ffe9aab.png" />](https://www.tensorflow.org/)
-[<img align="left" alt="Scikit-learn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471281-09205680-9479-11eb-9947-e712f7dd33f7.png" />](https://scikit-learn.org/stable/index.html)
-[<img align="left" alt="Pandas" width="30px" src="https://user-images.githubusercontent.com/75840165/113471285-0c1b4700-9479-11eb-9060-01f171b3b562.png" />](https://pandas.pydata.org/)
+[<img align="left" alt="Tensorflow" width="30px" src="https://user-images.githubusercontent.com/75840165/113471283-0aea1a00-9479-11eb-82e3-b9264ffe9aab.png" />][tensorflow]
+[<img align="left" alt="Scikit-learn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471281-09205680-9479-11eb-9947-e712f7dd33f7.png" />][sklearn]
+[<img align="left" alt="Pandas" width="30px" src="https://user-images.githubusercontent.com/75840165/113471285-0c1b4700-9479-11eb-9060-01f171b3b562.png" />][pandas]
 [<img align="left" alt="Matplotlib" width="30px" src="https://user-images.githubusercontent.com/75840165/113471284-0b82b080-9479-11eb-98a0-bed08a493efb.png" />](https://matplotlib.org/)
 [<img align="left" alt="Seaborn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471386-8ba91600-9479-11eb-858b-432a30e66c4c.png" />](https://seaborn.pydata.org/)
 [<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/75840165/113471914-3f5fd500-947d-11eb-846d-c9a1030de47d.png" />](https://www.python.org/)
@@ -45,7 +45,7 @@
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/AdiShirsath)
+[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
@@ -55,3 +55,13 @@
 
 
   <img align="left" alt="AdiShirsath's GitHub Stats" src="https://github-readme-stat-two.vercel.app/api?username=AdiShirsath&show_icons=true&hide_border=true" />
+  
+  <!-- Links -->
+  [linkedin]: https://twitter.com/shirsath_adi
+  [github]: https://github.com/AdiShirsath
+  [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shirsath_adi
+  [instagram]: https://www.instagram.com/adya_shirsath/
+  [tensorflow]: https://www.tensorflow.org/
+  [sklearn]: https://scikit-learn.org/stable/index.html
+  [pandas]: https://pandas.pydata.org/
+  [webdevplaylist]:  https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
