@@ -21,7 +21,7 @@
 -----
 ### Connect with me:
 
-[<img align="left" alt="shirsath_adi | Twitter" width="22px" src="https://user-images.githubusercontent.com/75840165/113473034-9e751800-9484-11eb-92af-5b0f8b348b88.png" />][twitter]
+[<img align="left" alt="shirsath_adi | Twitter" width="22px" color="white" src="https://user-images.githubusercontent.com/75840165/113473034-9e751800-9484-11eb-92af-5b0f8b348b88.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
