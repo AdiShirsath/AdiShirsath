@@ -7,17 +7,20 @@
 ### ***Key skills Deep learning, Machine Learning*** !!
 
 -  <img src="https://user-images.githubusercontent.com/75840165/113469768-f18fa080-946d-11eb-970d-036eb614f2d6.png" width=30 height=30> Goal 2021: Become Machine/ Deep Learning Engineer, Data scientist.
-- 🔭 My best work is web-app using Flask-html-scss on Deep Learning, here is demo-[Visit](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
+- 🔭 One of my favourite project is web-app using Flask-html-scss on Deep Learning, here is demo-[Visit](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Cassava Demo](https://user-images.githubusercontent.com/75840165/113469514-bee4a880-946b-11eb-894c-ed87d60d822e.gif)](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Hobbies: I love to watch Movies and Cricket.
 
-- Just compeleted flight fare prediction app-[Visit](https://github.com/AdiShirsath/Machine_learning_projects/tree/main/Regression_Problems/Flight_Fare_Prediction)
+- Currenty finishing up Lyrics Generator [visit here](https://github.com/AdiShirsath/Lyrics-Generator) to see:-> 
+>Here is one generated lyrics using `GPT2`
 
-<img src="https://user-images.githubusercontent.com/75840165/114542424-89af3600-9c75-11eb-9f24-ce89a04dc813.gif" height=300 width=600>
+ >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/75840165/119500444-72d82500-bd85-11eb-98fd-29cfc9adb816.png" width=550 height=350>
 
+
+  
 -----
 ### Connect with me:
 
