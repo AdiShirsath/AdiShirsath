@@ -65,8 +65,8 @@
   <!-- Links -->
   [linkedin]: https://www.linkedin.com/in/adishirsath55/
   [github]: https://github.com/AdiShirsath
-  [twitter-follow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shirsath_adi
-  [twitter]:https://twitter.com/shirsath_adi
+  [twitter-follow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Adishirsath55
+  [twitter]:https://twitter.com/Adishirsath77
   [instagram]: https://www.instagram.com/adya_shirsath/
   [tensorflow]: https://www.tensorflow.org/
   [sklearn]: https://scikit-learn.org/stable/index.html
