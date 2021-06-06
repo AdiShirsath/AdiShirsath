@@ -10,7 +10,7 @@
 -  <img src="https://user-images.githubusercontent.com/75840165/113469768-f18fa080-946d-11eb-970d-036eb614f2d6.png" width=30 height=30> Goal 2021: Become Machine/ Deep Learning Engineer, Data scientist.
 - 🔭 One of my favourite project is web-app using Flask-html-scss on Deep Learning, here is demo-[Visit](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Cassava Demo](https://user-images.githubusercontent.com/75840165/113469514-bee4a880-946b-11eb-894c-ed87d60d822e.gif)](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Cassava Demo](https://user-images.githubusercontent.com/75840165/115149325-2bbd8c80-a081-11eb-98cf-44e8c6b5ac11.gif)](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
 
 - Currenty finishing up Lyrics Generator [visit here](https://github.com/AdiShirsath/Lyrics-Generator) to see:-> 
 >Here is one generated lyrics using `GPT2`
