@@ -31,7 +31,7 @@
 -----
 ### Connect with me:
 
-[<img align="left" alt="Aditya | medium" width="22px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/medium.svg" />][medium]
+[<img align="left" alt="Aditya | medium" width="30px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/medium.svg" />][medium]
 [<img align="left" alt="Aditya| LinkedIn" width="22px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shirsath_adi | Twitter" width="22px" color="white" src="https://user-images.githubusercontent.com/75840165/113473034-9e751800-9484-11eb-92af-5b0f8b348b88.png" />][twitter]
 [<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;
