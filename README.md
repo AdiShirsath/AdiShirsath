@@ -1,6 +1,7 @@
 ## ***Hi there! I'm ADITYA <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=50px hight=50px>***
 
 [![Linkedin](https://img.shields.io/website?label=linkedin&style=for-the-badge&url=https%3A%2F%linkedin.com)][linkedin]
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2FAdishirsath77%3Foriginal_referer%3Dhttps%253A%252F%252Fgithub.com%252FcodeSTACKr%26screen_name%3DAdishirsath77)
 
 ### ***I'm a Student, Developer, Engineer*** !!
 ### ***Key skills Deep learning, Machine Learning*** !!
@@ -12,13 +13,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/115149325-2bbd8c80-a081-11eb-98cf-44e8c6b5ac11.gif" width=600 height=350>](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
 
-- Currenty finishing up Lyrics Generator [visit here](https://github.com/AdiShirsath/Lyrics-Generator) to see:-> 
->Here is one generated lyrics using `GPT2`
-
- >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/75840165/119500444-72d82500-bd85-11eb-98fd-29cfc9adb816.png" width=550 height=350>
+* Currently creating English to Marathi translator.
+>* Published one article on using Encoder-Decoder model for Neural machine translation.
 
 
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/121858312-1fb61a00-cd14-11eb-8486-de0d0a897a2b.jpg" width=500 height=250>](https://medium.com/geekculture/neural-machine-translation-using-sequence-to-sequence-model-164a5905bcd7)
+
+>*  And writing one for using Attention model.
+
+
+* Recently finished Lyrics Generator [visit here](https://github.com/AdiShirsath/Lyrics-Generator) to see:-> 
+>* Here is one generated lyrics using `GPT2`
+
+ >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/75840165/119500444-72d82500-bd85-11eb-98fd-29cfc9adb816.png" width=550 height=400>
+
+
 -----
 ### Connect with me:
 
