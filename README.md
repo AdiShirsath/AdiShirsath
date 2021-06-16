@@ -1,25 +1,27 @@
 ## ***Hi there! I'm ADITYA <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=50px hight=50px>***
 
-[![Linkedin](https://img.shields.io/website?label=linkedin&style=for-the-badge&url=https%3A%2F%linkedin.com)][linkedin]
-![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2FAdishirsath77%3Foriginal_referer%3Dhttps%253A%252F%252Fgithub.com%252FcodeSTACKr%26screen_name%3DAdishirsath77)
+[![Linkedin](https://img.shields.io/website?down_message=down&label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
+&nbsp;&nbsp;[![medium_url](https://img.shields.io/website?down_color=black&label=Medium&logo=Medium&logoColor=black&style=social&url=https%3A%2F%2Fwww.medium.com%2F)][medium]
 
-### ***I'm a Student, Developer, Engineer*** !!
+### ***I'm a Student, Data scientist, Engineer*** !!
 ### ***Key skills Deep learning, Machine Learning*** !!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Hobbies: I love to watch Movies and Cricket.
 
 -  <img src="https://user-images.githubusercontent.com/75840165/113469768-f18fa080-946d-11eb-970d-036eb614f2d6.png" width=30 height=30> Goal 2021: Become Machine/ Deep Learning Engineer, Data scientist.
+
+
+* Currently working NLP project of English to Marathi translator- [repo](https://github.com/AdiShirsath/Neural-Machine-Translation)
+>* Published two articles on Neural machine translation.
+
+&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/122188472-9c303080-cead-11eb-8a79-af0f1deeeb31.jpg" width=350 height=200>](https://medium.com/geekculture/neural-machine-translation-using-sequence-to-sequence-model-164a5905bcd7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://user-images.githubusercontent.com/75840165/122187875-1318f980-cead-11eb-8491-a0632b4dfafa.jpg" width=350 height=200>](https://adityashirsath.medium.com/neural-machine-translation-using-seq2seq-model-with-attention-9faea357d70b)
+
+
 - 🔭 One of my favourite project is web-app using Flask-html-scss on Deep Learning, here is demo-[Visit](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/115149325-2bbd8c80-a081-11eb-98cf-44e8c6b5ac11.gif" width=600 height=350>](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
 
-* Currently creating English to Marathi translator.
->* Published one article on using Encoder-Decoder model for Neural machine translation.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/121858312-1fb61a00-cd14-11eb-8486-de0d0a897a2b.jpg" width=550 height=350>](https://medium.com/geekculture/neural-machine-translation-using-sequence-to-sequence-model-164a5905bcd7)
-
->*  And writing one for using Attention model.
 
 
 * Recently finished Lyrics Generator [visit here](https://github.com/AdiShirsath/Lyrics-Generator) to see:-> 
