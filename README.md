@@ -11,9 +11,9 @@
 -  <img src="https://user-images.githubusercontent.com/75840165/113469768-f18fa080-946d-11eb-970d-036eb614f2d6.png" width=30 height=30> Goal 2021: Become Machine/ Deep Learning Engineer, Data scientist.
 
 - Currently writing notes from ML and DL and getting all things at one place.
-- Can visit here [Deep Learning](https://github.com/AdiShirsath/Machine-Learning-Notes/blob/main/Deep_Learning/Deep_Learning_Notion.gif), [Machine Learning Models](https://www.notion.so/ML-Estimator-s-4e648fdeabff47cba250070ff974561c). This is still in process so incompleted part is bit scattered.
+- Can visit here [Deep Learning](https://heavenly-pie-e5a.notion.site/Deep-Learning-Neural-Nets-723fa72b9ee842b9af3086480aa87674)[Machine Learning Models](https://www.notion.so/ML-Estimator-s-4e648fdeabff47cba250070ff974561c). This is still in process so incompleted part is bit scattered.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/126888795-baf20b7a-7272-43a8-97ba-77424b2209a0.gif" height=350 width=600>](https://www.notion.so/Deep-Learning-Neural-Nets-723fa72b9ee842b9af3086480aa87674)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/AdiShirsath/Machine-Learning-Notes/blob/main/Deep_Learning/Deep_Learning_Notion.gif" height=350 width=600>](https://www.notion.so/Deep-Learning-Neural-Nets-723fa72b9ee842b9af3086480aa87674)
 
 
 
