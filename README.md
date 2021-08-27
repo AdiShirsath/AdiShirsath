@@ -10,28 +10,13 @@
 
 -  <img src="https://user-images.githubusercontent.com/75840165/113469768-f18fa080-946d-11eb-970d-036eb614f2d6.png" width=30 height=30> Goal 2021: Become Machine/ Deep Learning Engineer, Data scientist.
 
-- Currently writing notes from ML and DL and getting all things at one place.
-- Can visit here [Deep Learning](https://heavenly-pie-e5a.notion.site/Deep-Learning-Neural-Nets-723fa72b9ee842b9af3086480aa87674)[Machine Learning Models](https://www.notion.so/ML-Estimator-s-4e648fdeabff47cba250070ff974561c). This is still in process so incompleted part is bit scattered.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/AdiShirsath/Machine-Learning-Notes/blob/main/Deep_Learning/Deep_Learning_Notion.gif" height=350 width=600>](https://www.notion.so/Deep-Learning-Neural-Nets-723fa72b9ee842b9af3086480aa87674)
-
-
-
-- 🔭 Some of my favourite projects 
-- *  NLP project of English to Marathi translator- [repo](https://github.com/AdiShirsath/Neural-Machine-Translation)
-- * Published two articles on Neural machine translation.
+- 🔭 One of my projects 
+>*  NLP project of English to Marathi translator- [repo](https://github.com/AdiShirsath/Neural-Machine-Translation)
+>*  Published two articles on Neural machine translation.
 
 &nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/122188472-9c303080-cead-11eb-8a79-af0f1deeeb31.jpg" width=350 height=200>](https://medium.com/geekculture/neural-machine-translation-using-sequence-to-sequence-model-164a5905bcd7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://user-images.githubusercontent.com/75840165/122187875-1318f980-cead-11eb-8491-a0632b4dfafa.jpg" width=350 height=200>](https://adityashirsath.medium.com/neural-machine-translation-using-seq2seq-model-with-attention-9faea357d70b)
-
-- API using Flask-html-scss on Deep Learning, here is demo-[Visit](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/115149325-2bbd8c80-a081-11eb-98cf-44e8c6b5ac11.gif" width=600 height=350>](https://github.com/AdiShirsath/Cassava-Leaf-Disease-Detection)
-
-- Lyrics Generator [visit here](https://github.com/AdiShirsath/Lyrics-Generator) to see:-> 
->* Here is one generated lyrics using `GPT2`
-
- >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/75840165/119500444-72d82500-bd85-11eb-98fd-29cfc9adb816.png" width=550 height=350>
 
 
 -----
