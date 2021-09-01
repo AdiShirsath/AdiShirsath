@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Hobbies: I love to watch Movies and Cricket.
 
--  <img src="https://user-images.githubusercontent.com/75840165/113469768-f18fa080-946d-11eb-970d-036eb614f2d6.png" width=30 height=30> My Goal: Research & Contribute to this amazing field of AI and Machine Learning.
+-  :robot: My Goal: Research & Contribute to this amazing field of AI and Machine Learning.
 
-- 🔭 One of my projects 
+🔭 One of my projects 
 >*  NLP project of English to Marathi translator- [repo](https://github.com/AdiShirsath/Neural-Machine-Translation)
 >*  Published two articles on Neural machine translation.
 
