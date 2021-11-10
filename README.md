@@ -34,7 +34,6 @@
 [<img align="left" alt="Seaborn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471386-8ba91600-9479-11eb-858b-432a30e66c4c.png" />](https://seaborn.pydata.org/)
 [<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/75840165/113471914-3f5fd500-947d-11eb-846d-c9a1030de47d.png" />](https://www.python.org/)
 [<img align="left" alt="Flask" width="30px" src="https://user-images.githubusercontent.com/75840165/113471874-f019a480-947c-11eb-9757-01e239bf340a.png" />](https://flask.palletsprojects.com/en/1.1.x/)
-[<img align="left" alt="Stramlit" width="30px" src="https://user-images.githubusercontent.com/75840165/113471875-f14ad180-947c-11eb-9546-02deeb48e3e9.png" />](https://streamlit.io/?target="_blank")
 
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/default.asp)
@@ -44,12 +43,8 @@
 [<img align="left" alt="Anaconda" width="30px" src="https://user-images.githubusercontent.com/75840165/113471448-eb9fbc80-9479-11eb-8590-c52a359c7ede.png" />](https://www.anaconda.com/)
 [<img align="left" alt="Jupyter" width="30px" src="https://user-images.githubusercontent.com/75840165/113471503-5650f800-947a-11eb-9039-5d3b7cdc2c53.png" />](https://jupyter.org/)
 [<img align="left" alt="Pycharm" width="30px" src="https://user-images.githubusercontent.com/75840165/113471548-c3fd2400-947a-11eb-8b5b-bd5bc3886cc0.png" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Spyder" width="30px" src="https://user-images.githubusercontent.com/75840165/113471601-150d1800-947b-11eb-949e-a19338d06a5e.png" />](https://www.spyder-ide.org/)
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img  align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" target="_blank"><img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 
 <br />
 <br />
