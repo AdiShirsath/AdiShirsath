@@ -46,10 +46,6 @@
 <br />
 
 ---
-<details>
-   <summary>GitHub Stats</summary>
-<img align="left" alt="AdiShirsath's GitHub Stats" src="https://github-readme-stat-two.vercel.app/api?username=AdiShirsath&show_icons=true&hide_border=true" />
-</details>
 
  
   <!-- Links -->
