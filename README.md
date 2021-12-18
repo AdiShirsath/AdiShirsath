@@ -14,10 +14,6 @@
 >*  NLP project of English to Marathi translator- [repo](https://github.com/AdiShirsath/Neural-Machine-Translation)
 >*  Published two articles on Neural machine translation.
 
-&nbsp;&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/75840165/122188472-9c303080-cead-11eb-8a79-af0f1deeeb31.jpg" width=350 height=200>](https://medium.com/geekculture/neural-machine-translation-using-sequence-to-sequence-model-164a5905bcd7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://user-images.githubusercontent.com/75840165/122187875-1318f980-cead-11eb-8491-a0632b4dfafa.jpg" width=350 height=200>](https://adityashirsath.medium.com/neural-machine-translation-using-seq2seq-model-with-attention-9faea357d70b)
-
-
 -----
 ### Connect with me:
 
