@@ -3,16 +3,12 @@
 [![Linkedin](https://img.shields.io/website?down_message=down&label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
 &nbsp;&nbsp;[![medium_url](https://img.shields.io/website?down_color=black&label=Medium&logo=Medium&logoColor=black&style=social&url=https%3A%2F%2Fwww.medium.com%2F)][medium]
 
-### ***I'm a Machine learning Engineer, Data scientist, Student*** !!
+### ***I'm a Machine Learning Engineer, Data Scientist, Student*** !!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Hobbies: I love to watch Movies and Cricket.
 
--  :robot: My Goal: Research & Contribute to this amazing field of AI and Machine Learning.
-
-🔭 One of my projects 
->*  NLP project of English to Marathi translator- [repo](https://github.com/AdiShirsath/Neural-Machine-Translation)
->*  Published two articles on Neural machine translation.
+-  :robot: My Goal: Research & contribute to this amazing field of AI and Machine Learning.
 
 -----
 ### Connect with me:
@@ -20,7 +16,8 @@
 [<img align="left" alt="Aditya | medium" width="30px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/medium.svg" />][medium]
 [<img align="left" alt="Aditya| LinkedIn" width="22px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shirsath_adi | Twitter" width="22px" color="white" src="https://user-images.githubusercontent.com/75840165/113473034-9e751800-9484-11eb-92af-5b0f8b348b88.png" />][twitter]
-[<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;
+
+<br>
 
 ### Languages and Tools:
 [<img align="left"  alt="Tensorflow" width="30px" src="https://user-images.githubusercontent.com/75840165/113471283-0aea1a00-9479-11eb-82e3-b9264ffe9aab.png"/>][tensorflow]
