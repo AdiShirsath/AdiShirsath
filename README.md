@@ -1,4 +1,4 @@
-## ***Hi there! I'm ADITYA <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=50px hight=50px>***
+## ***Hi there! I'm ADITYA <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=50 hight=50>***
 
 [![Linkedin](https://img.shields.io/website?down_message=down&label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
 &nbsp;&nbsp;[![medium_url](https://img.shields.io/website?down_color=black&label=Medium&logo=Medium&logoColor=black&style=social&url=https%3A%2F%2Fwww.medium.com%2F)][medium]
