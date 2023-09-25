@@ -56,3 +56,7 @@
   [pandas]: https://pandas.pydata.org/
   [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
   [medium]: https://adityashirsath.medium.com/
+
+### GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adishirsath&theme=ayu_mirage)
+
