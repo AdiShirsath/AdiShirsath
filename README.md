@@ -3,9 +3,7 @@
 
 <!-- ========== TYPING ANIMATION ========== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=ML+Engineer+%C2%B7+3+yrs+in+production;LLM+Agents+%C2%B7+RAG+%C2%B7+AI Systems;" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=ML+Engineer+%C2%B7+3%2B+yrs+in+production;LLM+Agents+%C2%B7+RAG+%C2%B7+AI+Systems;Open+to+full-time+ML%2FAI+roles+%28US%29" alt="Typing SVG" />
 </p>
 
 <p align="center">
