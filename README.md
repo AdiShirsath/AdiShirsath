@@ -4,7 +4,7 @@
 <!-- ========== TYPING ANIMATION ========== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=ML+Engineer+%C2%B7+3+yrs+in+production;LLM+Agents+%C2%B7+RAG+%C2%B7+MLOps;Open+to+full-time+ML%2FAI+roles+(US)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=ML+Engineer+%C2%B7+3+yrs+in+production;LLM+Agents+%C2%B7+RAG+%C2%B7+AI Systems;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/adishirsath55/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://adityashirsath.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://twitter.com/Adishirsath77"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="mailto:adityashirsath4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -43,12 +42,6 @@ An agentic system that plans analysis tasks, generates and executes Python in an
 - 🧪 Evaluation framework across 32 tasks and 4 datasets
 - 📊 7 evaluation metrics
 
-<p align="center">
-  <a href="https://github.com/Adishirsath/QuillAI">
-    <img src="assets/quillai-demo.gif" alt="QuillAI demo" width="85%"/>
-  </a>
-</p>
-
 ---
 ## 🔬 Currently Building
 
@@ -56,11 +49,6 @@ An agentic system that plans analysis tasks, generates and executes Python in an
 An engineering layer for reliable agentic AI systems, focused on evaluation, regression testing, guardrails, experiment tracking, and containerized serving.
 
 **MLflow · GitHub Actions · FastAPI · Docker · Kind · Unsloth · NeMo Guardrails**
-
-### 📄 DocLens
-A multimodal document QA system designed to reason across text, tables, and figures.
-
-**RAG · Vision-Language Models · Retrieval · Document Understanding**
 
 ## 🛠 Stack
 
@@ -91,11 +79,6 @@ A multimodal document QA system designed to reason across text, tables, and figu
 
 ## 🏆 Contributions
 
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adishirsath&theme=onedark&no-frame=true&row=1&column=7" width="100%"/>
-</p>
-
 <!-- 3D CONTRIBUTION GRAPH -->
 <p align="center">
   <img
@@ -105,28 +88,10 @@ A multimodal document QA system designed to reason across text, tables, and figu
   />
 </p>
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Adishirsath/Adishirsath/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Adishirsath/Adishirsath/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Adishirsath/Adishirsath/output/github-snake-dark.svg"
-      alt="GitHub contribution snake"
-    />
-  </picture>
-</p>
-
 ---
 
 <p align="center">
-  🎬 Movies &nbsp;·&nbsp; 🏏 Cricket &nbsp;·&nbsp; 📫 <a href="mailto:adityashirsath4@gmail.com">Let's talk</a>
+  🤖 AI/ML &nbsp;·&nbsp; 💡 Building with AI &nbsp;·&nbsp; 📫 <a href="mailto:adityashirsath4@gmail.com">Let's talk</a>
 </p>
 
 <!-- ========== WAVE BANNER (footer) ========== -->
