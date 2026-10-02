@@ -1,4 +1,4 @@
-name: Test GitHub Profile 3D Contrib
+name: Test Contribution Snake
 
 on:
   workflow_dispatch:
@@ -7,27 +7,23 @@ permissions:
   contents: write
 
 jobs:
-  build:
-    # Only run when manually launched against workflow-test
-    if: github.ref == 'refs/heads/workflow-test'
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout test branch
-        uses: actions/checkout@v5
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
         with:
-          ref: update_p
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Generate 3D contribution profile
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Publish test snake files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: update_p
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit generated files to test branch
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add profile-3d-contrib/
-          git diff --cached --quiet || git commit -m "Test: update 3D contribution profile"
-          git push origin HEAD:update_p
