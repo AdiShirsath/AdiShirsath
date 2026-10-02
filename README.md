@@ -1,66 +1,133 @@
-## ***Hi there! I'm ADITYA <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=50 hight=50>***
+<!-- ========== WAVE BANNER (header) ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Shirsath&fontSize=42&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![Linkedin](https://img.shields.io/website?down_message=down&label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
-&nbsp;&nbsp;[![medium_url](https://img.shields.io/website?down_color=black&label=Medium&logo=Medium&logoColor=black&style=social&url=https%3A%2F%2Fwww.medium.com%2F)][medium]
+<!-- ========== TYPING ANIMATION ========== -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=ML+Engineer+%C2%B7+3+yrs+in+production;LLM+Agents+%C2%B7+RAG+%C2%B7+MLOps;Open+to+full-time+ML%2FAI+roles+(US)" alt="Typing SVG" />
+  </a>
+</p>
 
-### ***I'm a Machine Learning Engineer, Data Scientist, Student*** !!
+<p align="center">
+  📍 Buffalo, NY &nbsp;·&nbsp; 🎓 MS, University at Buffalo &nbsp;·&nbsp; 💼 Previously ML Engineer at Verloop.io
+</p>
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Hobbies: I love to watch Movies and Cricket.
-
--  :robot: My Goal: Research & contribute to this amazing field of AI and Machine Learning.
-
------
-### Connect with me:
-
-[<img align="left" alt="Aditya| LinkedIn" width="22px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Aditya | medium" width="30px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/medium.svg" />][medium]
-[<img align="left" alt="shirsath_adi | Twitter" width="22px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/twitter.png" />][twitter]
-[<img align="left" width="28px" src="https://github.com/AdiShirsath/AdiShirsath/blob/main/icons/gmail2.png" />][gmail]
-
-
-
-<br>
-
-### Languages and Tools:
-[<img align="left"  alt="Tensorflow" width="30px" src="https://user-images.githubusercontent.com/75840165/113471283-0aea1a00-9479-11eb-82e3-b9264ffe9aab.png"/>][tensorflow]
-[<img align="left" alt="Scikit-learn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471281-09205680-9479-11eb-9947-e712f7dd33f7.png" />][sklearn]
-[<img align="left" alt="Pandas" width="30px" src="https://user-images.githubusercontent.com/75840165/113471285-0c1b4700-9479-11eb-9060-01f171b3b562.png" />][pandas]
-[<img align="left" alt="Matplotlib" width="30px" src="https://user-images.githubusercontent.com/75840165/113471284-0b82b080-9479-11eb-98a0-bed08a493efb.png" />](https://matplotlib.org/)
-[<img align="left" alt="Seaborn" width="30px" src="https://user-images.githubusercontent.com/75840165/113471386-8ba91600-9479-11eb-858b-432a30e66c4c.png" />](https://seaborn.pydata.org/)
-[<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/75840165/113471914-3f5fd500-947d-11eb-846d-c9a1030de47d.png" />](https://www.python.org/)
-[<img align="left" alt="Flask" width="30px" src="https://user-images.githubusercontent.com/75840165/113471874-f019a480-947c-11eb-9757-01e239bf340a.png" />](https://flask.palletsprojects.com/en/1.1.x/)
-
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/default.asp)
-[<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/documentation/syntax)
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
-
-[<img align="left" alt="Anaconda" width="30px" src="https://user-images.githubusercontent.com/75840165/113471448-eb9fbc80-9479-11eb-8590-c52a359c7ede.png" />](https://www.anaconda.com/)
-[<img align="left" alt="Jupyter" width="30px" src="https://user-images.githubusercontent.com/75840165/113471503-5650f800-947a-11eb-9039-5d3b7cdc2c53.png" />](https://jupyter.org/)
-[<img align="left" alt="Pycharm" width="30px" src="https://user-images.githubusercontent.com/75840165/113471548-c3fd2400-947a-11eb-8b5b-bd5bc3886cc0.png" />](https://www.jetbrains.com/pycharm/)
-
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-
-<br />
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/adishirsath55/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://adityashirsath.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://twitter.com/Adishirsath77"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:adityashirsath4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
- 
-  <!-- Links -->
-  [linkedin]: https://www.linkedin.com/in/adishirsath55/
-  [github]: https://github.com/AdiShirsath
-  [twitter-follow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Adishirsath77
-  [twitter]:https://twitter.com/Adishirsath77
-  [instagram]: https://www.instagram.com/adya_shirsath/
-  [tensorflow]: https://www.tensorflow.org/
-  [sklearn]: https://scikit-learn.org/stable/index.html
-  [pandas]: https://pandas.pydata.org/
-  [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-  [medium]: https://adityashirsath.medium.com/
-  [gmail]: adityashirsath4@gmail.com
+## 🚀 Featured Projects
 
-### GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adishirsath&theme=ayu_mirage)
+### 🧠 [QuillAI](https://github.com/Adishirsath/QuillAI)
 
+**Autonomous Data Analysis Agent**
+
+An agentic system that plans analysis tasks, generates and executes Python in an isolated sandbox, observes results, and self-corrects failed executions.
+
+**Architecture**
+
+`User → Planner → Code Generation → E2B Sandbox → Observation → Self-Correction → Results`
+
+**Key engineering work**
+
+- 🔄 Plan → Execute → Observe → Adapt agent loop
+- 🧠 Redis working memory + ChromaDB episodic memory
+- 🛠️ Sandboxed Python execution with E2B
+- 🔁 Up to 3 automatic self-correction attempts
+- ⚡ FastAPI WebSocket streaming
+- 🧪 Evaluation framework across 32 tasks and 4 datasets
+- 📊 7 evaluation metrics
+
+<p align="center">
+  <a href="https://github.com/Adishirsath/QuillAI">
+    <img src="assets/quillai-demo.gif" alt="QuillAI demo" width="85%"/>
+  </a>
+</p>
+
+---
+## 🔬 Currently Building
+
+### ⚙️ AgentOps
+An engineering layer for reliable agentic AI systems, focused on evaluation, regression testing, guardrails, experiment tracking, and containerized serving.
+
+**MLflow · GitHub Actions · FastAPI · Docker · Kind · Unsloth · NeMo Guardrails**
+
+### 📄 DocLens
+A multimodal document QA system designed to reason across text, tables, and figures.
+
+**RAG · Vision-Language Models · Retrieval · Document Understanding**
+
+## 🛠 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,kubernetes,aws,mysql,git,githubactions"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adishirsath&show_icons=true&theme=tokyonight&hide_border=true" />
+
+[//]: # (  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adishirsath&layout=compact&theme=tokyonight&hide_border=true" />)
+</p>
+
+<!-- STREAK (delete if it looks empty) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adishirsath&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 🏆 Contributions
+
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adishirsath&theme=onedark&no-frame=true&row=1&column=7" width="100%"/>
+</p>
+
+<!-- 3D CONTRIBUTION GRAPH -->
+<p align="center">
+  <img
+    src="profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D GitHub contributions"
+    width="100%"
+  />
+</p>
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Adishirsath/Adishirsath/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Adishirsath/Adishirsath/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Adishirsath/Adishirsath/output/github-snake-dark.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  🎬 Movies &nbsp;·&nbsp; 🏏 Cricket &nbsp;·&nbsp; 📫 <a href="mailto:adityashirsath4@gmail.com">Let's talk</a>
+</p>
+
+<!-- ========== WAVE BANNER (footer) ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
